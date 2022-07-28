@@ -6,7 +6,7 @@ by Pawan Lapborisuth, Sharath Koorathota and Paul Sajda.
 
 Data and preliminary analysis scripts for the NiDyN (Neurally-Informed Dynamic Navigation) arousal project conducted by LIINC laboratory of Columbia University. 
 
-## Link to data folder: 
+## Link to data folder: https://www.dropbox.com/sh/t8v93o9a0atwzge/AAAsHXrMltTdhgj2GY2n31uma?dl=0
 
 ## Data folder contains:
   - 25 human subject data (ND1 - ND25)
