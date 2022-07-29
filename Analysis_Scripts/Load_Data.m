@@ -41,6 +41,7 @@ for i = 1:length(data)
     eeg_data{i} = data{i}.BioSemi{1};
     eeg_time{i} = data{i}.BioSemi{2};
 end
+
 %% Separate Out Gaze and Pupil Data
 % Channel 1 = Left Pupil Diameter
 % Channel 2 = Right Pupil Diameter
@@ -70,6 +71,7 @@ for i = 1:length(data)
     eye_data{i} = data{i}.Unity_VarjoEyeTracking{1};
     eye_time{i} = data{i}.Unity_VarjoEyeTracking{2};
 end
+
 %% Separate Out Unity Data
 % Channel 1 = Image onset (1 = distractor, 2 = target)
 % Channel 2 = Speed of vehicle in front
