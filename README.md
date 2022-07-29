@@ -12,7 +12,7 @@ Data and preliminary analysis scripts for the NiDyN (Neurally-Informed Dynamic N
   - 25 human subject data (ND1 - ND25)
   - Each subject folder contains 8 files, one per experimental run
   - Each file is labeled with the subject number, condition ('low' = easy condition; 'high' = hard condition) and run number eg. ND1_Low_1.mat
-  - Each file contains EEG, ECG, eyetracking and paradigm data (further details can be found in scripts located in the Analysis_Scripts folder)
+  - Each file contains EEG, ECG, eyetracking, head movement and paradigm data (further details can be found in scripts located in the Analysis_Scripts folder)
   - Detailed experimental design and data collection procedure can be found in the published journal artcile linked above
   - All data were collected in accordance to the Columbia University Institutional Review Board procedure
   - All data are in .mat format and can be loaded directly into MATLAB
